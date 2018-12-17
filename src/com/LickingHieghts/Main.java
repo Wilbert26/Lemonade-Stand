@@ -19,8 +19,11 @@ public class Main {
      price = keyboard.nextInt();
      System.out.println("Now enter the price per lemon");
         price = keyboard.nextInt();
-
-
+     System.out.println("The cost of sugar");
+        price = keyboard.nextInt();
+System.out.println("How much of it did you buy");
+        price = keyboard.nextInt();
+        System.out.println("");
 
 
 
